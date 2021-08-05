@@ -11,5 +11,5 @@ jobs:
         uses: matchai/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 973a7e45f18c6b42e3042ce7beef4f70
+          GIST_ID: 44d31a4a1fb3261cf5f5de8f22d3ba76
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
